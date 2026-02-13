@@ -1,3 +1,4 @@
+package Problem3;
 import java.util.*;
 
 public class Problem3 {
